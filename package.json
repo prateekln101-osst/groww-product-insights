@@ -1,0 +1,24 @@
+{
+  "name": "groww-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Groww customer review analysis and approval-gated Google Docs and Gmail actions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "groww",
+    "product-insights",
+    "mcp",
+    "customer-reviews"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.30.0",
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "csv-parse": "^7.0.3",
+    "zod": "^4.6.7"
+  }
+}
