@@ -206,7 +206,7 @@ Complete and verify the following items before submission:
 - [ ] Weekly product pulse in Markdown, PDF, or Google Docs.
 - [ ] Fee explainer with official references and a last-checked date.
 - [ ] README with setup instructions, limitations, and approval workflow.
-- [ ] Demo video of no more than three minutes, or a working hosted prototype if required.
+- [ ] Demo video of no more than three minutes, or a working hosted prototype if required: **Demo video:** [Watch the Groww Product Insights MCP demo](https://drive.google.com/file/d/19ejKyxXLcR3V32pMCUd-DHwCBXpqPE6A/view?usp=drive_link)
 - [ ] Google Docs append evidence.
 - [ ] Screenshot or text evidence of the unsent Gmail draft.
 - [ ] Source list containing at least four relevant resources.
